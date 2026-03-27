@@ -1,1 +1,1 @@
-# learn-sign-dictionary-cimplete
+# learn-sign-dictionary-complete
